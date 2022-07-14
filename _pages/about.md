@@ -24,7 +24,7 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=9b6dPU4tIJvIAAoTY2w6Hg1YK623ovXjlvj4-lrOXw-Wp8PQMcE4S_FhsYCGgtP2BA&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=d027JYfjMgBN9fJgEaegRk0Sy5n2k9vNrROy20b6Eh-Wm8XYMwmZJR0zAU0C0adHrn7d3JidjeXyh_Z4hwjuexYsPObutpyogCBMonfVQT4&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
 # 📝 Publications
 
@@ -41,7 +41,6 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +54,6 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 </div>
 
 
-
 # 📖 Educations
 
 - *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing
@@ -66,8 +64,8 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- *2020.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=89ccDljLIK9FG3y2IasyMFu25wZ8Yw0Q0Np63god3QHlFD_9UyVbgkRRNtmtMeXCQA&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
-- *2019.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=6203fEzZpKhQHrfrgZprOffFBCiuYN-2Hygc8GFY5Iz8GeF1fm_7Oa4F_N1sT3B5DQ&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
+- *2020.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=d252XQTaH5FaakUPFSI2YUEBJ2KqW4nT-o1aG264tg8mQjAFYyt-m1quweQ4B2NNqmwH3_mS7lNd5gKnW-W0_oaGWMf7T7PMy9HTM6lR0wGue-bRbrC6igwZ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
+- *2019.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=3fa7Pc-7sKRsJHrYxF2ZSmFYYnSfdzmj77NuorZkFtIi3tapfQqEBN45ufeChqSAZfHDg-p_bghQxXJQTn9oizhviF6HUsqq1zvRdSVSXse7Km52aLyjv4kT&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
 
 # 💻 Internships
 
