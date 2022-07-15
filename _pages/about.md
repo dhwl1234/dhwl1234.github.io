@@ -24,14 +24,14 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4/index.php?explorer/share/file&hash=d027JYfjMgBN9fJgEaegRk0Sy5n2k9vNrROy20b6Eh-Wm8XYMwmZJR0zAU0C0adHrn7d3JidjeXyh_Z4hwjuexYsPObutpyogCBMonfVQT4&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin](http://49.233.4.4/#fileView&path=http%3A%2F%2F49.233.4.4%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3De496ifnG96WOBoV1cqRuWTPrhYoUZjH0ts2PwoVqBsmkJyRnfv6FhnaknKG9Excs2A%26name%3D%2FLore_%2520A%2520Learning-based%2520Approach%2520for%2520Workflow%2520Scheduling%2520in%2520Clouds.pdf%26_etag%3D60f4f)**  (under review)
+**[Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3DdfddPuCtIwcKqebARD32k3VlnFXMFvDKu0HFVoRXnHHeVVnUblhT8SoZNKKynKNhbA%26name%3D%2FLore_%2520A%2520Learning-based%2520Approach%2520for%2520Workflow%2520Scheduling%2520in%2520Clouds.pdf%26_etag%3D60f4f)**  (under review)
 
 2022 International Conference on Research in Adaptive and Convergent Systems
 
@@ -41,10 +41,11 @@ I'm a post-graduate student at Automation School, Beijing Institute of Technolog
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](http://49.233.4.4/#fileView&path=http%3A%2F%2F49.233.4.4%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3D39b1baITXdVxzjbQuU9jPIyeC7kfsqrX6OmLW0LaTz_rjYNU4pZBj6jP0owEO0KPRw%26name%3D%2FTrajectory_Tracking_of_a_Novel_Underactuated_AUV_via_Nonsingular_Integral_Terminal_Sliding_Mode_Control.pdf%26_etag%3Dec658)
+[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3Dd1c2e4EWuzrYybuQ3bLmCpfZXh-iPSuYC6P5djKa1g9gq_HMQMY8xxUwj5RflCJq_g%26name%3D%2FTrajectory_Tracking_of_a_Novel_Underactuated_AUV_via_Nonsingular_Integral_Terminal_Sliding_Mode_Control.pdf%26_etag%3Dec658)
 
 IEEE Access \| 07-20-2021
 
@@ -65,8 +66,8 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 # 🎖 Honors and Awards
 
 - *2020.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=d252XQTaH5FaakUPFSI2YUEBJ2KqW4nT-o1aG264tg8mQjAFYyt-m1quweQ4B2NNqmwH3_mS7lNd5gKnW-W0_oaGWMf7T7PMy9HTM6lR0wGue-bRbrC6igwZ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
-- *2019.10* [National Scholarship](http://49.233.4.4/index.php?explorer/share/file&hash=3fa7Pc-7sKRsJHrYxF2ZSmFYYnSfdzmj77NuorZkFtIi3tapfQqEBN45ufeChqSAZfHDg-p_bghQxXJQTn9oizhviF6HUsqq1zvRdSVSXse7Km52aLyjv4kT&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
+- *2019.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=9fa9rJQnYiT032QpRWP_yV4RqWw1faYB0JavMc1xRgAZmMOJACTUWb3mraPNIcA6YQ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
 
 # 💻 Internships
 
-- *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
+- *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www2.caict.ac.cn/), Chongqing.
