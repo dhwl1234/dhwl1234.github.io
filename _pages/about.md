@@ -64,8 +64,8 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 🎖 Honors and Awards
 
-- *2020.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=eb92d5VG9GFZkylszzj9ypeVHeFa2mtxT4A29v5eSrlow2V7v1U6jEveeX3u7qa1ag&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
-- *2019.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=9fa9rJQnYiT032QpRWP_yV4RqWw1faYB0JavMc1xRgAZmMOJACTUWb3mraPNIcA6YQ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
+- *2020.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=9fa9rJQnYiT032QpRWP_yV4RqWw1faYB0JavMc1xRgAZmMOJACTUWb3mraPNIcA6YQ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
+- *2019.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=eb92d5VG9GFZkylszzj9ypeVHeFa2mtxT4A29v5eSrlow2V7v1U6jEveeX3u7qa1ag&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
 
 # 💻 Internships
 
