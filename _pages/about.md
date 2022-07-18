@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -18,37 +19,36 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the [State Key Laboratory of Intelligent Control and Decision of Complex Systems](https://csicdgz.bit.edu.cn/sysgk/index.htm), I’m supervised by [Vice Prof. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include cloud resource management and Reinforcement Learning.
+I'm a doctoral candidate  at  [Aerospace Information Innovation Institute, Chinese Academy of Sciences](http://aircas.cas.cn/)), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm). As a member of the Aerospace and Microwave Remote Sensing System Department,, I’m supervised by [Researcher Wang Pei](https://people.ucas.edu.cn/~wangpei). My research interests include New System Radar and Spaceborne SAR.
 
-*The people who are crazy enough to think that they can change the world, are the ones who do*
+*This man dreamed of building a world-leading space-borne SAR satellite*
 
 # 🔥 News
 
-*2022.07.11*  🎉🎉 Received an [acceptance letter](http://49.233.4.4:1000/index.php?explorer/share/file&hash=e007bg4oY038KqvV0YpvCeMGU7nyVOQqckPxklF057QeziB9P_8lTSGpKjT2uQgCsw&name=/IMG_2147.jpeg) from the School of Automation, Beijing Institute of Technology!
+*2022.06.28*  🎉🎉 Received an [acceptance letter](https://s2.loli.net/2022/07/18/ZVAPQJCcmI9puNk.jpg)from University of Chinese Academy of Sciences!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RACS 2022</div><img src='images/DRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAPE 2021</div><img src='images/Configuration of a Quasi-optical mode converter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Lore: A Learning-based Approach for Workflow Scheduling in CloudsA Learning-based Approach for Cloud Workflow Schedulin](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3DdfddPuCtIwcKqebARD32k3VlnFXMFvDKu0HFVoRXnHHeVVnUblhT8SoZNKKynKNhbA%26name%3D%2FLore_%2520A%2520Learning-based%2520Approach%2520for%2520Workflow%2520Scheduling%2520in%2520Clouds.pdf%26_etag%3D60f4f)**  (under review)
+**[Discussion on the Phase-Correction Mirror in the Quasi-Optical Mode Converter | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9752993)**  
 
-2022 International Conference on Research in Adaptive and Convergent Systems
+2021 13th International Symposium on Antennas, Propagation and EM Theory (ISAPE)
 
-**Haosong Peng**, Chuge Wu, Yufeng Zhan, Yuanqing Xia
+Yizhang Zhu; **Yihai Wei**; Bowei Huang; Ming Jin; Ming Bai
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/QUV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAICA</div><img src='images/DCNN framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control**](http://49.233.4.4:1000/#fileView&path=http%3A%2F%2F49.233.4.4%3A1000%2Findex.php%3Fexplorer%2Fshare%2Ffile%26hash%3Dd1c2e4EWuzrYybuQ3bLmCpfZXh-iPSuYC6P5djKa1g9gq_HMQMY8xxUwj5RflCJq_g%26name%3D%2FTrajectory_Tracking_of_a_Novel_Underactuated_AUV_via_Nonsingular_Integral_Terminal_Sliding_Mode_Control.pdf%26_etag%3Dec658)
+**[Research on bearing fault diagnosis method based on deep convolutional neural network | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9497921)**
 
-IEEE Access \| 07-20-2021
+2021 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)
 
-Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
+**Yihai Wei**; Ronghao Li
 
 </div>
 </div>
@@ -56,17 +56,14 @@ Zhiwei Wu, **Haosong Peng***, Biao Hu, Xiaodong Feng
 
 # 📖 Educations
 
-- *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing
+- *2022.09 - 2027.06 (now)*, Doctoral Candidate, Aerospace Information Innovation Institute, Chinese Academy of Sciences, Beijing
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
-
-  **Rank: 1/153** \| **GPA: 4.07/4.33**
-- *2015.09-2018.06*, Chongqing Yucai Secondary School, Chongqing
+- *2015.09-2018.06*, Fujian Jian’ou First High School, Jian’ou,Fujian
 
 # 🎖 Honors and Awards
 
-- *2020.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=9fa9rJQnYiT032QpRWP_yV4RqWw1faYB0JavMc1xRgAZmMOJACTUWb3mraPNIcA6YQ&name=/%E5%9B%BD%E5%A5%962.jpg) (Top 1%)
-- *2019.10* [National Scholarship](http://49.233.4.4:1000/index.php?explorer/share/file&hash=eb92d5VG9GFZkylszzj9ypeVHeFa2mtxT4A29v5eSrlow2V7v1U6jEveeX3u7qa1ag&name=/%E5%9B%BD%E5%A5%961.jpg) (Top 1%)
+- *2021.10* [National Scholarship](https://s2.loli.net/2022/07/18/efoz6DuK3jJXWZv.jpg)(Top 1%)
 
 # 💻 Internships
 
-- *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www2.caict.ac.cn/), Chongqing.
+- *2022.05 - 2022.07*, [Nanjing Tongyudao Technology Co., LTD. (Dingding Parking)](https://dingdingtingche.com/index.html), Nanjing.
