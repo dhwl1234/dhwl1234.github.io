@@ -31,8 +31,7 @@ I'm a doctoral candidate  at  [Aerospace Information Innovation Institute, Chine
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISAPE 2021</div><img src='images/Configuration of a Quasi-optical mode converter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**[Discussion on the Phase-Correction Mirror in the Quasi-Optical Mode Converter | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9752993)**  
+**[Discussion on the Phase-Correction Mirror in the Quasi-Optical Mode Converter ](https://ieeexplore.ieee.org/document/9752993)**  
 
 2021 13th International Symposium on Antennas, Propagation and EM Theory (ISAPE)
 
@@ -43,8 +42,7 @@ Yizhang Zhu; **Yihai Wei**; Bowei Huang; Ming Jin; Ming Bai
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAICA</div><img src='images/DCNN framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**[Research on bearing fault diagnosis method based on deep convolutional neural network | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9497921)**
+**[Research on bearing fault diagnosis method based on deep convolutional neural network ](https://ieeexplore.ieee.org/document/9497921)**
 
 2021 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)
 
