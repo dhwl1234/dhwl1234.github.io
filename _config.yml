@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yihai Wei | 魏屹海"
-description              : "Focusing on synthetic aperture radar (SAR), hardware and embedded system."
+description              : "Focusing on synthetic aperture radar(SAR),FPGA,hardware and embedded system."
 repository               : "dhwl1234/dhwl1234.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yihai Wei | 魏屹海"
-  avatar           : "images/wyh_profile.jpg"
+  avatar           : "images/wyh_profile.png"
   bio              : "Aerospace and Microwave Remote Sensing System Department, Aerospace Information Innovation Institute, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
