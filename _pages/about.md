@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a doctoral candidate  at  [Aerospace Information Innovation Institute, Chinese Academy of Sciences](http://aircas.cas.cn/)), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm). As a member of the Aerospace and Microwave Remote Sensing System Department,, I’m supervised by [Researcher Wang Pei](https://people.ucas.edu.cn/~wangpei). My research interests include New System Radar and Spaceborne SAR.
+I'm a doctoral candidate  at  [Aerospace Information Innovation Institute, Chinese Academy of Sciences](http://aircas.cas.cn/), and received B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm). As a member of the Aerospace and Microwave Remote Sensing System Department,, I’m supervised by [Researcher Wang Pei](https://people.ucas.edu.cn/~wangpei). My research interests include New System Radar and Spaceborne SAR.
 
 *This man dreamed of building a world-leading space-borne SAR satellite*
 
